@@ -18,7 +18,6 @@ Get ready to protect your precious data with the ultimate weapon - disk backups!
 
 <p align="center">
 
-
 <br />
 Right-click Start and then select Settings.
  <br/>
@@ -41,12 +40,9 @@ Locate the drive where you want to store the backup. For this demonstration I ch
 <img src="https://i.imgur.com/cCgpdL7.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-
 (1) Under Back up my files, use the drop-down to select Daily.
 Under Keep my backups, use the drop-down to select 6 months or however long you want to keep the backup saved. (2) Under Back up these folders, select Add a folder.
 Double-click what you want backed up. For this demo I'm choosing the Data (D:) volume. When you are ready select Choose this folder.
-
-
  <br/>
 <img src="https://i.imgur.com/S3NAGb6.png" height="80%" width="80%" alt="DHCP"/>
 <br />
