@@ -36,12 +36,12 @@ From the left pane, select Backup. From the right pane, select Add a drive.
 <img src="https://i.imgur.com/CHjIPxC.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Locate the drive where you want to store the backup. For this demonstration I chose to backup drive (E:).
+Locate the drive where you want to store the backup. For this demonstration I chose to backup drive (E:). Click "Select More options".
 <br/>
 <img src="https://i.imgur.com/cCgpdL7.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Select More options.
+
 (1) Under Back up my files, use the drop-down to select Daily.
 Under Keep my backups, use the drop-down to select 6 months or however long you want to keep the backup saved. (2) Under Back up these folders, select Add a folder.
 Double-click what you want backed up. For this demo I'm choosing the Data (D:) volume. When you are ready select Choose this folder.
