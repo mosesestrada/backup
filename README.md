@@ -36,7 +36,7 @@ From the left pane, select Backup. From the right pane, select Add a drive.
 <img src="https://i.imgur.com/CHjIPxC.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Locate the drive where you want to store the backup. For this demonstration I chose to backup drive (E:).Next, Select "More options".
+Locate the drive where you want to store the backup. For this demonstration I chose to backup drive (E:). Next, Select "More options".
 <br/>
 <img src="https://i.imgur.com/cCgpdL7.png" height="80%" width="80%" alt="DHCP"/>
 <br />
