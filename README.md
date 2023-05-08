@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/8u9duYZ.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/EfiNUGi.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Daily disk backup in Windows</h1>
